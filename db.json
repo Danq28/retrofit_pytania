@@ -1,0 +1,33 @@
+{
+  "pytana":[
+    {
+      "tresc":"Jakie miasto jest stolicą Polski?",
+      "odp_a":"Kraków",
+      "odp_b":"Helenka",
+      "odp_c":"Mikulczyce",
+      "poprawna":0
+    },
+    {
+      "tresc":"Na jakim kontynencie leży Sahara – największa gorąca pustynia świata?",
+      "odp_a":"Kraków",
+      "odp_b":"Afryka",
+      "odp_c":"Polska",
+      "poprawna":1
+    },
+    {
+      "tresc":"Który ocean jest największy na Ziemi?",
+      "odp_a":"bytomka",
+      "odp_b":"hel",
+      "odp_c":"Spokojny",
+      "poprawna":2
+    },{
+      "tresc":"W jakim kraju znajduje się wieża Eiffla?",
+      "odp_a":"jabłko",
+      "odp_b":"Francja",
+      "odp_c":"Bagietka",
+      "poprawna":1
+    }
+    
+    
+  ]
+}
